@@ -1,0 +1,3 @@
+[submodule "nonstd"]
+	path = nonstd
+	url = ./pujcorpora-nonstd
