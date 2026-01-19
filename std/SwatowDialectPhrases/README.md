@@ -7,8 +7,6 @@
     林伦伦. 汕头方言词汇(三)[J]. 方言, 1991(4):310-314.
     林伦伦. 汕头方言词汇(四)[J]. 方言, 1992(1):78-80.
 
-原文来源参见：
-
-<http://jour.ucdrs.superlib.net/searchJour?Field=all&channel=searchJour&sw=%E6%B1%95%E5%A4%B4%E6%96%B9%E8%A8%80%E8%AF%8D%E6%B1%87&edtype=&ecode=utf-8>
+原文可到[全国图书参考咨询联盟](http://www.ucdrs.superlib.net/)获取。
 
 其中第一篇似乎已经撤稿，目前无法取得。
