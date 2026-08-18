@@ -668,7 +668,7 @@ arsenic, sin3-tsieh8.
 
 arts, tshiu2-goi7; peh8-goi7; tshai5-goi7; ki6-goi7; kang1-goi7. military, bu2-goi7. literary, bun5-goi7.
 
-artery, kurn1-mehnn8; hueh8-mehnn8.
+artery, kurn1-mennh8; hueh8-mennh8.
 
 artful, kau2-kuai3; hue1-niau1 peh8-tsih8; kan1-tsa3; kan1-kau2; tsoi7-sim1-sur7.
 
@@ -748,7 +748,7 @@ astonish, khurt8--nang5 hai6-i6; sai2-nang5 khi5-i6; hai6-i6 nang5 kai5 jur2-mak
 
 
 
-astounded, kiann1-kau3 huak8--tse7-kie3; kiann1-kau3 hehnn8--tse7-kie3; kiann1-kau3 ngoh8-ngoh8; kiann1-kau3 kong5-kong5.
+astounded, kiann1-kau3 huak8--tse7-kie3; kiann1-kau3 hennh8--tse7-kie3; kiann1-kau3 ngoh8-ngoh8; kiann1-kau3 kong5-kong5.
 
 astray, tsau2-tsho3-lou7; kiann5-tann7 lou7-thu5.
 
@@ -1068,7 +1068,7 @@ beastly, khim5-siu3-khuan2; tur1-ienn5-kau2-sienn3; ju5-tur1-kau2.
 
 beat, phah8. one another, sie1-phah8. with bad language, sie1-menn7 sie1-phah8. beat the watch, kha3-khok8 sun5-kenn1. the time, kha3-pan2; kha3-tsiauh8. a drum, phah8-kou2. to beat the bamboo in fishing, kha3-kou1. one's own head, phah8-thau5 phah8-hiah8. the breast, phah8-sim1-kuann1; tui5-heng1. clothes, in washing, tui5-sann1-khou3. rice, phah8-tiu6. beat out fire, phah8-hue2; kiu3-hue2. beat one with the hand in the face, piang1 (a slap); ong3 (a blow). beat against the wind, khau-huang. excel, iann5; iann5-kue3. to be beaten, su.
 
-beau, haunn3-phai5-tshiang5; haunn3-ngia2; haunn3-hue1-liu2; haunn3-hehnn8.
+beau, haunn3-phai5-tshiang5; haunn3-ngia2; haunn3-hue1-liu2; haunn3-hennh8.
 
 beautiful, ngia2; ho2-thoinn2; muinn2; muinn2-maunn6; tshiau3-ke3; sun2-tsai2; senn1-phai5-tshiang5; piau2-tsi3.
 
@@ -1314,7 +1314,7 @@ bleach, pie3-peh8.
 
 bleareyed, minn5-mak8-kinn5.
 
-bleat, ienn5 mehnn8-mehnn8-kie3.
+bleat, ienn5 mennh8-mennh8-kie3.
 
 bleed, a patient, pang3-tshut8-hueh8; thie1-hueh8; tshng8-hueh8. wound, tshut8-hueh8; lau5-hueh8.
 
@@ -1336,7 +1336,7 @@ blind man's buff, liah8-hur5; mong5-hur5.
 
 blinds, of door, mng5-liam5. venetian, hau7-peh8-tsheh8.
 
-blink, nihnn8-mak8.
+blink, ninnh8-mak8.
 
 blister, pha6. to rise in blisters, phok8-pha6; phah8-phong3-pha6; phok8-kong2. with medicine, buah8-pha6.
 
@@ -1350,7 +1350,7 @@ blockade, kim3-khau2; kim3-kang2.
 
 blockhead, lu2-tun6; ngui5-phue5; tsha5--kai5.
 
-blood, hueh8. vessel, hueh8-mehnn8; hueh8-lou7. to pass, pang3-hueh8; pang3-ang5. to let, pang3-tshut8-hueh8. curdled, kit8-hueh8.
+blood, hueh8. vessel, hueh8-mennh8; hueh8-lou7. to pass, pang3-hueh8; pang3-ang5. to let, pang3-tshut8-hueh8. curdled, kit8-hueh8.
 
 bloody, u6-hueh8; lau5-hueh8. all over, tsek8-sin1-hueh8.
 
@@ -1364,11 +1364,11 @@ blossom, khui1-hue1. bud and blossom, kit8-lui2 khui1-hue1; phah8-lui2 khui1-hue
 
 blot, out, hu2-tiau7; khou1-tiau7. of ink, tih--tieh8 bak8; tshak8--tieh8 bak8.
 
-blotch, from drinking, tsiu2-mohnn8.
+blotch, from drinking, tsiu2-monnh8.
 
 blotting-paper, so3-tsua2.
 
-blow, a, phah8 tsek8-e7. up a vessel, pang3-hue2-ieh8 kun2-tiau7-tsun5. wind, huang tshue1; thau3-huang1 (high wind). flute or pipe, tshue1-siau1; pun5-huenn5-tek8; pun5-ti1-ta5. out (as lamp), pun5-kue3. the fire, pun5-hue2 toh8; hut8-hue2. the nose, hnghnn8-phinn7; sang3-phinn7. blow pipe, hue2-kong2.
+blow, a, phah8 tsek8-e7. up a vessel, pang3-hue2-ieh8 kun2-tiau7-tsun5. wind, huang tshue1; thau3-huang1 (high wind). flute or pipe, tshue1-siau1; pun5-huenn5-tek8; pun5-ti1-ta5. out (as lamp), pun5-kue3. the fire, pun5-hue2 toh8; hut8-hue2. the nose, hngnnh8-phinn7; sang3-phinn7. blow pipe, hue2-kong2.
 
 blubber, jelly-fish or medusa, the7; hai2-the7; tsui2-bo2.
 
@@ -3120,7 +3120,7 @@ crawl, so; pe5.
 
 crazy, siau2; huat8-siau2; huat8-khuang5; huat-tien; khuang5-luan6; sim m7-tiann7; sim1-sin5 m7-tiann7.
 
-creak, ihnn8-uaihnn8-kie3; ihnn8-aihnn8-kie3.
+creak, innh8-uainnh8-kie3; innh8-ainnh8-kie3.
 
 cream, gu5-ninn6-phue5.
 
@@ -3136,7 +3136,7 @@ credit, sin3; sien3; siang1-sin3. buy or sell on credit, tshia1. creditor, tse3-
 
 creek, kang2; sie2-khoi1; soi3-khoi1; thong1-ka3.
 
-creep, pe5, so. creep up, pe5--khi2-lai5. through a hole, bun3-khang1; nng8-khang1. under the bedclothes, nng8--jip8 phue6-toi2. stealthily along, nihnn8-kha1-kiann5.
+creep, pe5, so. creep up, pe5--khi2-lai5. through a hole, bun3-khang1; nng8-khang1. under the bedclothes, nng8--jip8 phue6-toi2. stealthily along, ninnh8-kha1-kiann5.
 
 crescent, moon, gueh8-bai5; sin1-gueh8; ngo5-bai5-gueh8.
 
@@ -3496,7 +3496,7 @@ defer, in5-tinn5; tshi5-man7; hua5-thua5; ua5-thua5; tam1-tua5; tam-koh; thu5-ma
 
 defer, to any one, tsun1-jiang6--i. deference, khiam1-jiang6; keng3-sim1.
 
-defile, jiam2-u1; hu2--tieh8 nahnn8-sap8. a woman, tiam-u; u1-ue3. a defile, ai3-khau2. important pass, hiam2-ai3; iau3-ai3.
+defile, jiam2-u1; hu2--tieh8 nannh8-sap8. a woman, tiam-u; u1-ue3. a defile, ai3-khau2. important pass, hiam2-ai3; iau3-ai3.
 
 define, koi2-meng5; hun1-meng5; thiah8-meng5.
 
@@ -3906,7 +3906,7 @@ disgrace, tiu1-lien2; sit8-lien2; bo5-min7; kien3-siau3; u1-jok8; tshinn2-jok8; 
 
 disguise, koh8-ienn7 ta2-pan7. male or female, tsuang1-lam5 ke2-nng2. as a literary man, tsuang1-tso3 thak8-tsur1-nang5.
 
-disgust, iam3-tsuann7; iam3-hurn6; iam3-khi3; iam3-u3. shudder with, phah8-tshun3-lun7; phah8-tshun3-un7; thoinn2-kinn3 hehnn8-tsek8-kie3. disgusting, tshi1-gi5.
+disgust, iam3-tsuann7; iam3-hurn6; iam3-khi3; iam3-u3. shudder with, phah8-tshun3-lun7; phah8-tshun3-un7; thoinn2-kinn3 hennh8-tsek8-kie3. disgusting, tshi1-gi5.
 
 dishes, puann5-uann2.
 
@@ -3954,7 +3954,7 @@ disobedient, m7-sun6; m7-sun6-meng6; m7-tsun1-meng6; m7-sun6-tshong5; ui5-meng6;
 
 disoblige, m6-kuan1-ku3; m6-thoinn2-ku3; m6-thoi2-thiap8; m6-tsiau3-eng7. disobliging, bo5-nang5-tsheng5.
 
-disorder, luan6; jur5-jur5; hun6-tsap8; jur5-ngiau5-ngiau5; hng-hng hehnn8-hehnn8. disorderly conduct, huang3-sur3; bo5-huap8-tou7.
+disorder, luan6; jur5-jur5; hun6-tsap8; jur5-ngiau5-ngiau5; hng-hng hennh8-hennh8. disorderly conduct, huang3-sur3; bo5-huap8-tou7.
 
 disown, m6-jin7.
 
@@ -4322,7 +4322,7 @@ dysentery, li7; li7-tsit8; pang3-ang5; tham5-thui7; thi3-khi3; hueh8-li7; peh8-l
 
 dyspepsia, m7-siau1-hue3; put8-siau1-hue3; tsiah8 chek; im2-tsiah8 tsek8-tsu6.
 
-dyspnoea, tshuan2; khui3 tua7; khui3 kip; tshuan2-kip8; khi3 tshuan2; hehnn8-hehnn8-tshuan2. infantine, ninn1-he1; ninn1-tshuan2.
+dyspnoea, tshuan2; khui3 tua7; khui3 kip; tshuan2-kip8; khi3 tshuan2; hennh8-hennh8-tshuan2. infantine, ninn1-he1; ninn1-tshuan2.
 
 dysury, siau2-pien6 m7-kiann5; sie2-pien6 m7-thong1.
 
@@ -4664,7 +4664,7 @@ ephemeral, insects, tsiau1 senn1 monn6 si2 kai5-thang5.
 
 epidemic, si5-tseng3; si5-khi3; si5-leng6; un1-mut8 (fatal).
 
-epidermis, phue5-mohnn8; phue5-hu1.
+epidermis, phue5-monnh8; phue5-hu1.
 
 epilepsy, ienn5-kueh8-tshai2; tur1-bo2-tshai2; tieh8-ienn5-tshai2; ienn5-tiau3-huang1.
 
@@ -4968,7 +4968,7 @@ exult, tua7-tua7 huann1-hi2; huann1-hi2 kau3-thiau3; huann1-hi2 tsi3-kek8.
 
 exuviae, tsua5 pak-khak; thang5 pak-khak.
 
-eye, mak8; mak8-tsiu1. sharp, mak8-tsiu1 leng5; mak8-tsiu1 leng5-lai7. dim, mak8-tsiu1 hue; mak8 mong5-bu7; mak8 bu7. sore, mak8-tsiu1 thiann3. open, mak8 peh-kim; mak8 khui1-khui1. close, mak8 hap8-minn1; mak8 minn1-minn1. red, mak8-kurn1 ang5. inflamed, mak8 senn1-hue2; mak8 ang5; mak8 pau6-thiann3. turn up the white of, mak8 poinn2-peh8. wink, nihnn8-mak8; mak8-tsiu1 khap8-khap8-nihnn8. as signal, suh8-mak8. squint, sia5-tsiau2-mak8; tshua2-mak8. near-sighted, kurn6-si6-mak8. wide and staring, as thief's, mak8 kok-kok-kim. pupil of, thong5-jin5; sien1-nang5-thau5. brows, mak8-bai5. ball, mak8-tsiu1-jin5. white of, mak8-peh8-jin5. lashes, mak8-tshi3-monn5. lids, mak8-kha1-phue5; mak8-pau1. inner corner, mak8-thau5. outer corner, mak8-bue2. eye-hollow, mak8-khong2; mak8-khuang1; mak8-uann2. sight, mak8-tsiu1 kng. eye-glass, mak8-kiann3. eyeless, sit8-meng5; tshenn1-menn5; hak8-ngan2. medicine, mak8-ieh8-tsui2. salve, mak8-ieh8-ko1. eye-witness, tshin1-mak8 thoinn2--kinn3. of spectacles, mak8-kiann3-jin5; mak8-kiann3-nek8. of needle, tsam1-phinn7; tsam1-khang1. bull's-eye, pa2-sim1. to hit it, tong3-ang5-sim1. please the eye, hah8-mak8; juat8-mak8. make the eyes smart (as pepper), soh--tieh8 mak8. get a mote in the eye, mak8 eng--tieh8. before the eyes of all, to6-tseng3-nang5 min7-tsoinn5. great in one's own eyes, ka1-ki7 tsur6-si6 tso3-tua7; tsur6-tsun1. wise in one's own eyes, tsur6-gau5; tsur6-hien5. fix the eyes on one, mak8 kim-kim to6-thoinn2.
+eye, mak8; mak8-tsiu1. sharp, mak8-tsiu1 leng5; mak8-tsiu1 leng5-lai7. dim, mak8-tsiu1 hue; mak8 mong5-bu7; mak8 bu7. sore, mak8-tsiu1 thiann3. open, mak8 peh-kim; mak8 khui1-khui1. close, mak8 hap8-minn1; mak8 minn1-minn1. red, mak8-kurn1 ang5. inflamed, mak8 senn1-hue2; mak8 ang5; mak8 pau6-thiann3. turn up the white of, mak8 poinn2-peh8. wink, ninnh8-mak8; mak8-tsiu1 khap8-khap8-ninnh8. as signal, suh8-mak8. squint, sia5-tsiau2-mak8; tshua2-mak8. near-sighted, kurn6-si6-mak8. wide and staring, as thief's, mak8 kok-kok-kim. pupil of, thong5-jin5; sien1-nang5-thau5. brows, mak8-bai5. ball, mak8-tsiu1-jin5. white of, mak8-peh8-jin5. lashes, mak8-tshi3-monn5. lids, mak8-kha1-phue5; mak8-pau1. inner corner, mak8-thau5. outer corner, mak8-bue2. eye-hollow, mak8-khong2; mak8-khuang1; mak8-uann2. sight, mak8-tsiu1 kng. eye-glass, mak8-kiann3. eyeless, sit8-meng5; tshenn1-menn5; hak8-ngan2. medicine, mak8-ieh8-tsui2. salve, mak8-ieh8-ko1. eye-witness, tshin1-mak8 thoinn2--kinn3. of spectacles, mak8-kiann3-jin5; mak8-kiann3-nek8. of needle, tsam1-phinn7; tsam1-khang1. bull's-eye, pa2-sim1. to hit it, tong3-ang5-sim1. please the eye, hah8-mak8; juat8-mak8. make the eyes smart (as pepper), soh--tieh8 mak8. get a mote in the eye, mak8 eng--tieh8. before the eyes of all, to6-tseng3-nang5 min7-tsoinn5. great in one's own eyes, ka1-ki7 tsur6-si6 tso3-tua7; tsur6-tsun1. wise in one's own eyes, tsur6-gau5; tsur6-hien5. fix the eyes on one, mak8 kim-kim to6-thoinn2.
 
 
 
@@ -5102,7 +5102,7 @@ feeble, nng2-jiak8; sue1-jiak8; bo5-lat8.
 
 feed, tshi7; iang2; pun1-i1-tsiah8.
 
-feel, by touch, mong5; thang6. the pulse, phah8-mehnn8; huann7-mehnn8; tsien2-mehnn8; an3-mehnn8; thoinn2-mehnn8; mong5-mehnn8; tenn6-mehnn8; mehnn8-thoinn2. pain, tsai1-thiann3. afraid, tsai1-kiann1. ashamed, tsai1-siau2-li2. obliged, kam2-urn1; kam2-urn1 tai3-tek8; tsai1-tsheng5; tsai i1-kai5 nang5-tsheng5. one's way with a stick, tsang1-ki1-tshue5 to6-la6-lou7. a feeling man, u6-nang5-tsheng5; u6-tshur5-sim1. hurt feelings, sienn1-sim1; sim1-thau5 thiann3; sim1-lai6 pau6-pek8.
+feel, by touch, mong5; thang6. the pulse, phah8-mennh8; huann7-mennh8; tsien2-mennh8; an3-mennh8; thoinn2-mennh8; mong5-mennh8; tenn6-mennh8; mennh8-thoinn2. pain, tsai1-thiann3. afraid, tsai1-kiann1. ashamed, tsai1-siau2-li2. obliged, kam2-urn1; kam2-urn1 tai3-tek8; tsai1-tsheng5; tsai i1-kai5 nang5-tsheng5. one's way with a stick, tsang1-ki1-tshue5 to6-la6-lou7. a feeling man, u6-nang5-tsheng5; u6-tshur5-sim1. hurt feelings, sienn1-sim1; sim1-thau5 thiann3; sim1-lai6 pau6-pek8.
 
 feign, ke2-tso3; tsuang1-tso3; tenn3-tso3. illness, ke2-tso3 u6-penn7; tsa3-penn7; tenn3-penn7; ke2-penn7. death, tenn3-si2. madness, tenn3-siau2; tenn3-kong5; tenn3-tien1; tsuang1-siau2; ke2-siau2.
 
@@ -5158,7 +5158,7 @@ fetter, a, soh. iron, thih8-soh8; kha1-khau3 tshiu2-khau3; kha1-liau5 tshiu2-lia
 
 feud, uan-ke. to have, with anyone, kang7-nang5 tso3-uan1-ke1; u6-uan1-ke1.
 
-fever, sie1-jiet8; huat8-jiet8; huat-sie; jiet8-penn7; jiet8-tseng3; sienn1-huang1; ngiak8-penn7; la1-jiet8 (feverish). and ague, kuann5-jiet8; pak8-kuann5; huat-sie; uinn3-tshin3; kuann5-penn7; kiam5-siam1-kuann5 (slightly feverish); mahnn8-mohnn8 mahnn8-mohnn8 (id.). quotidian ague, jit8-jit8-kuann5. tertian, lang3-jit8-kuann5; koinn3-jit8-kuann5. quartan, sann1-jit8-kuann5. to remove, tho3-jiet8. to abate, jiet8 tho3.
+fever, sie1-jiet8; huat8-jiet8; huat-sie; jiet8-penn7; jiet8-tseng3; sienn1-huang1; ngiak8-penn7; la1-jiet8 (feverish). and ague, kuann5-jiet8; pak8-kuann5; huat-sie; uinn3-tshin3; kuann5-penn7; kiam5-siam1-kuann5 (slightly feverish); mannh8-monnh8 mannh8-monnh8 (id.). quotidian ague, jit8-jit8-kuann5. tertian, lang3-jit8-kuann5; koinn3-jit8-kuann5. quartan, sann1-jit8-kuann5. to remove, tho3-jiet8. to abate, jiet8 tho3.
 
 few, tsie2; lan5-lo2; kui2-kai5; bo5-ua6; bo5-mih8-tsoi7; bo5-hienn3-tsoi7; bo5-jieh8-tsoi7; bo5-ki1. a few people, lan5-nang5; kui2-nang5; su3-nang5.
 
@@ -5206,7 +5206,7 @@ fillet, tua3.
 
 fillip, with finger-nail, tuann7; tuainn7.
 
-film, mohnn8; mohnn8-mohnn8; poh8-mohnn8; phue5-mohnn8.
+film, monnh8; monnh8-monnh8; poh8-monnh8; phue5-monnh8.
 
 filter, to, te3. water, te3-tsui2; tsui2 te3-tsheng1-khih8. a, tsui2-te3; sua1-lau3 (made of sand).
 
@@ -5566,7 +5566,7 @@ frequently, ke1-ke1-hang6; tsoi7-tsoi7-tshur3; e7-e7; lu2-lu2; lu2-tshur3; sienn
 
 fresh, water, tsiann2-tsui2. fish, tshinn1-hur5; hur5-tshinn1. new, sin. lively, u6-sin1-khi3. taste, tshinn1-bi7; tsiann2-bi7.
 
-fret, (intrans.) iu-ut; tsur6-thang3; tshoih8; pui1-tshoih8; uan3-tshoih8; ehnn8-ehnn8-kie3 (child). (trans.), kek8-senn3; kek8-khi3.
+fret, (intrans.) iu-ut; tsur6-thang3; tshoih8; pui1-tshoih8; uan3-tshoih8; ennh8-ennh8-kie3 (child). (trans.), kek8-senn3; kek8-khi3.
 
 friction, tshiu3; bua5.
 
@@ -5758,7 +5758,7 @@ gauze, se.
 
 gay, iau5-it8; kuang1-tshai2; phai5-tshiang5; hua5-muinn2; ngia2.
 
-gaze, mak8 kim-kim thoinn2; thoinn2 kau3 mak8 boi6-nihnn8.
+gaze, mak8 kim-kim thoinn2; thoinn2 kau3 mak8 boi6-ninnh8.
 
 gazette, Peking, kiann1-po3.
 
@@ -5866,9 +5866,9 @@ gleam, kng tsek8-e7-tsie3; kng iap8-tsek8-kie3.
 
 glean, khieh8-tshek8-sui7; toh8-tshek8-sui7.
 
-glide, silently, on tiptoe, nihnn8-kha1 nihnn8-kha1 tsiu6-kiann5.
+glide, silently, on tiptoe, ninnh8-kha1 ninnh8-kha1 tsiu6-kiann5.
 
-glimmer, nihnn8-sih8-kng1 nihnn8-sih8-kng1; ki-teng nihnn8-sih8 nihnn8-sih8.
+glimmer, ninnh8-sih8-kng1 ninnh8-sih8-kng1; ki-teng ninnh8-sih8 ninnh8-sih8.
 
 glistering, oi6-kng1; kng1-tsie3; iann1-tsie3; kng iann1-iann1; kng iann3-iann3; tang7-tang7-kng1; iap8-iap8-sih8.
 
@@ -6068,7 +6068,7 @@ gruff, manner and voice, ngiam5-sek8 tshou1-siann1.
 
 grumble, liam7-kauh8; liam7-lauh8; liam7-lou7; kih8-kuh8-kie3; kauh8-kauh8-kie3.
 
-grunt, tur1-siann1; hauhnn8--tse7-kie3; hoh8-hoh8-kie3.
+grunt, tur1-siann1; haunnh8--tse7-kie3; hoh8-hoh8-kie3.
 
 guarantee, tam1-seng5; pau1-niann2. a, tso3-tng3; an3-mueh8; tso3-an3; an3-tsieh8; an3-tng3.
 
@@ -7142,7 +7142,7 @@ instal, into office, kau1-in3; kau1-puann5; kau1-sia3.
 
 instance, for, kho2-pi2; phi3-ju6; phi3-ju5; pi2-huang1. one, tsek8-hue5.
 
-instant, an, tsek8-khun3-kiann2; tsek8-mak8-nihnn8; tsek8-sek8-ku2; tsek8-siap8-si5; tsek8-khek8. instantly, tsiet8-khek8; sui5-tsiet8; sui5-si5; lim5-si5. instead of, thoi3.
+instant, an, tsek8-khun3-kiann2; tsek8-mak8-ninnh8; tsek8-sek8-ku2; tsek8-siap8-si5; tsek8-khek8. instantly, tsiet8-khek8; sui5-tsiet8; sui5-si5; lim5-si5. instead of, thoi3.
 
 instep, kha1-puann5; kha1-pue3.
 
@@ -7786,7 +7786,7 @@ light, kng; kuang; kuang1-meng5. of sun, jit8-kng1. a lamp, liam2-hue2; tiam2-hu
 
 light, in weight, khin. and easy, khin1-koi7. clothing, tsheng7-poh8. wind, huang khin; huang1-kiann2 li-li. in colour, tshien2-sek8; sek tshien2-tann6. -fingered, sann1-tsiah8-tshiu2. lighten, puann5-khin1; phenn5-kiam2. to lighter, poh8-hue3. make light of anyone, thoinn2-khin1; thoinn2-m7-tsienn6-mak8; liah8-tsuann7; khin1-buan6; bu2-buan6.
 
-lightning, tien6-hue2; lui5-hue2. it lightens, lui5-kong1 nihnn8-mak8; tien6-hue2 iap8-iap8-sih8.
+lightning, tien6-hue2; lui5-hue2. it lightens, lui5-kong1 ninnh8-mak8; tien6-hue2 iap8-iap8-sih8.
 
 like, tshin1-tshienn6; huang2-sur6; siang1-sur6; kurn6-sur6; siau6; tang5; tshah8-tshih8 tshin1-tshienn6. it is like (simile), tshin1-tshienn6; kho2-pi2; phi3-ju5; tng3--kue3; hai7--kue3. do like him, oh8 i1-kai5-ienn7; uann3 i1-kai5-ienn7; hau6 i1-kai5-ienn7. make, it like this, tsie3 tsi2-kai5-ienn7 tso3.
 
@@ -7864,7 +7864,7 @@ litter, iang5-kie7.
 
 
 
-little, soi3; tsie2; se-su; se1-su1-kiann2; se1-kiann2; lan5-lo2; sut8-kiann2; tiam2-kiann2; tshoh8-kiann2-ninn1; nihnn8-nihnn8-kiann2; lan5-su1; su1-su1-kiann2. little by little, tsiam6-tsiam6. a little, tsho2-liak8; tshiau2-tshiau2. wait a little, tan2--khun3-kiann2; khia6-tiam7--tse7; tshiann2-theng6--tse7. see small.
+little, soi3; tsie2; se-su; se1-su1-kiann2; se1-kiann2; lan5-lo2; sut8-kiann2; tiam2-kiann2; tshoh8-kiann2-ninn1; ninnh8-ninnh8-kiann2; lan5-su1; su1-su1-kiann2. little by little, tsiam6-tsiam6. a little, tsho2-liak8; tshiau2-tshiau2. wait a little, tan2--khun3-kiann2; khia6-tiam7--tse7; tshiann2-theng6--tse7. see small.
 
 liturgy, khi5-tau2-sek8; khi5-tau2-bun5. to chant, liam7-keng1.
 
@@ -8248,7 +8248,7 @@ melt, ienn5; siau1-ienn5.
 
 members, of the body, si3-tsinn1; peh8-thoi2.
 
-membrane, mohnn8; pau1-mohnn8.
+membrane, monnh8; pau1-monnh8.
 
 memorable, iong2-ku2 put8-buang5; put8-hiu2.
 
@@ -8488,7 +8488,7 @@ mole, on the skin, ou1-ki3; ang5-ki3; am3-ki3 (on part covered by dress). hair o
 
 molest, lau5; jiau2-tok8; kiau2-jiau2; bua5-lui7.
 
-moment, wait a, see minute. momentary, mak8-nihnn8.
+moment, wait a, see minute. momentary, mak8-ninnh8.
 
 momentous, tang6; tshiet8-iau3; iau3-kin2; kin2-iau3.
 
@@ -8568,7 +8568,7 @@ Moukden, Seng6-kiann1.
 
 mould, for casting, bou5; in3.
 
-mouldy, huat8-monn5; senn1-kou1; senn1-kou1-mohnn8; huat-kou; tshienn6-mohnn8; tshienn6-kou1.
+mouldy, huat8-monn5; senn1-kou1; senn1-kou1-monnh8; huat-kou; tshienn6-monnh8; tshienn6-kou1.
 
 moulder, away, like wall, huan5; tsiam6-tsiam6-siau1; kauh8-tiau7.
 
@@ -8608,7 +8608,7 @@ multitude, khun5-tseng3; tsiann5-khun5; seng5-khun5. the, tseng3-nang5; su3-min5
 
 mumble, tann3-ue7 kam5-kou5.
 
-munch, tsiah8 tua7-tshui3 tua7-auhnn8; pou7.
+munch, tsiah8 tua7-tshui3 tua7-aunnh8; pou7.
 
 murder, suah8-nang5; ku3-suah8; suah8-si2-nang5; kiann5-hiong1; thai5-nang5. of parent or king, tshi3-suah8 kun1-pe6. murderer, hiong1-tshiu2; hiong1-huam6; hiong1-thu5; tsue6-hiong1.
 
@@ -8754,7 +8754,7 @@ nimble, kha khin1-khiau2; kha khin, tshiu2 khue3.
 
 nine, kau2; khuai3. nineteen, tsap8-kau2.
 
-nip, nihnn8; liam3 (more severely). with nippers, khinn5; koih8. nippers, thih8-khinn5; thih8-kinn5; niap8-kiann2; nihnn8-kiann2; kiap8-kiann2; koih8-kiann2.
+nip, ninnh8; liam3 (more severely). with nippers, khinn5; koih8. nippers, thih8-khinn5; thih8-kinn5; niap8-kiann2; ninnh8-kiann2; kiap8-kiann2; koih8-kiann2.
 
 nipples, ninn5-thau5.
 
@@ -9512,9 +9512,9 @@ pimple, nek8-thiau5.
 
 pin, tsam1-tsng3. ivory hair pin, ge5-tsam1. bone, kut8-tsam1.
 
-pincers, thih8-khinn5; thih8-kinn5; niap8-kiann2; nihnn8-kiann2; kiap8-kiann2; koih8-kiann2. crab's, hoi6-tua7-kha1.
+pincers, thih8-khinn5; thih8-kinn5; niap8-kiann2; ninnh8-kiann2; kiap8-kiann2; koih8-kiann2. crab's, hoi6-tua7-kha1.
 
-pinch, nihnn8; nueh8; liam3; tsun6 (twist). of snuff, tsek8-nueh8 phinn7-hun1.
+pinch, ninnh8; nueh8; liam3; tsun6 (twist). of snuff, tsek8-nueh8 phinn7-hun1.
 
 pine, tree, seng5-peh8-tshiu7; sam. -apple, huan1-lai5. pine-apple cloth, po1-lo5-muann5; po1-lo5-se1.
 
@@ -10044,7 +10044,7 @@ pulley, ka-lak.
 
 pulp, of fruit, kuenn2-tsi2-nek8.
 
-pulse , the, mehnn8. feel the, mehnn8; phah8-mehnn8; tenn6-mehnn8; an3-mehnn8; tsien2-mehnn8; thoinn2-mehnn8.
+pulse , the, mennh8. feel the, mennh8; phah8-mennh8; tenn6-mennh8; an3-mennh8; tsien2-mennh8; thoinn2-mennh8.
 
 
 
@@ -10430,7 +10430,7 @@ refund, pue5-hoinn5.
 
 refuse, to, tho1-si5; m7-kheng2; m7-haunn3; m7-tsun2; m7-nguan6.
 
-refuse, nahnn8-sap8. of wine, tsiu2-tsau1; tsau1-phoh8. of tea, te5-hu1. of sugar cane, tsia3-phoh8.
+refuse, nannh8-sap8. of wine, tsiu2-tsau1; tsau1-phoh8. of tea, te5-hu1. of sugar cane, tsia3-phoh8.
 
 refute, pien6-iann5; pien6-to2; poh8-to2; pien6-tiau7. refuted, pien6-su1; a3 m7-kue3-tshiu2.
 
@@ -12044,7 +12044,7 @@ starling, liau6-ko1-tsiau2.
 
 start, on a journey, khi2-sin1; khi2-kiann5; khi2-theng5; khi2-be2.
 
-startled, tieh8-kiann1; hehnn8--tse7-kie3. to startle, phien3-nang5-kiann1.
+startled, tieh8-kiann1; hennh8--tse7-kie3. to startle, phien3-nang5-kiann1.
 
 starve, go7. to death, go7-si2.
 
@@ -12556,7 +12556,7 @@ tailor, tshai5-hong5; thinn7-sann1 sai1-pe6.
 
 taint, tiam-u; jiam2; jiam2-u1; mak8--tieh8. tainted, as fish, ien; sieh8-bi7.
 
-take, khieh8; tshu2; ninn1; lah; put; tsang. your book, khieh8 lur2-png2-tsheh8. a fort, phah8-phua3 phau3-thai5. a standard, tshienn2-ki5; toh8-ki5. away, khieh8-khur3; siu1-khi2; toh8-tiau7. along with tea, &c, phue3-te5; phue3-te5-tsiah8. with one, thua3-khieh8. the air, la7-liang5. an inventory, tiam2-hue3-mueh8; kiam2-tiam2. by lot, khiah8-khau1. care, tsur2-soi3; kurn2-sin2; sie2-sim1; kurn2-sim1; soi3-ji7. care of, thoinn2-siu2; tsiau3-ku3; liau7-li2. care of oneself, tsur6-ki2 po2-tong6. down, khieh8--loh8-lai5; pak--loh8-lai5. exercise, khur3-thit8-tho5; kiann5-thit8-tho5; kiann5-siau1-iau5; oinn5-pou7; kin5-kiann5; kiann5-lai5 kiann5-khur3. one by the hand, khan1-tshiu2. leave of, kau3-si5; si5-piet8; siang1-piet8; tsiam6-piet8; kau3-piet8. one in (cheat), tshuah8; phien3; kuang1-phien3. medicine, tsiah8-ieh8. out of the water, liau5--tieh8. off, shoes or clothes, thng3-tiau7. off, a hat, pak8-tiau7; hien1-tiau7. one's hat to any one, hien1-khi2-bo7 tso3-loi2-siau3. off a cover, iaunn6-khoinn3; iaunn6-kham3; iaunn6-khui1. out a splinter, thie1-tshuann1; kiah8-tshi3. snuff, thie1-phinn7-hun1 (out of bottle); tsiah8-phinn7-hun1; hngh8-phinn7-hun1. up, with chopsticks, koih8. with two fingers, nuehnn8; ninn1. under the arm, koih8 to6 koh8-e6. the right hand path, tui3-tsiann3-tshiu2-poinn5 khur3. a disease, tieh8-penn7; ue3-tieh8-penn7; jiam2-tieh8-penn7; thuan5-jiam2. upon oneself, ka1-ki7 tam1-seng5; tann1-tng1; tsur6-tsuan1 (without authority). fire, toh8-hue2. a wife, tshua7-tshin1; tshua7-bou2; ti3-ke1. hold of, tshiu2 liah8; khieh8-kin2; khinn5; khinn5-kin2; man2-kin2; khan1-kin2. hold of one's queue, khim2-pinn1; tsang2-pinn1; man2-pinn1.
+take, khieh8; tshu2; ninn1; lah; put; tsang. your book, khieh8 lur2-png2-tsheh8. a fort, phah8-phua3 phau3-thai5. a standard, tshienn2-ki5; toh8-ki5. away, khieh8-khur3; siu1-khi2; toh8-tiau7. along with tea, &c, phue3-te5; phue3-te5-tsiah8. with one, thua3-khieh8. the air, la7-liang5. an inventory, tiam2-hue3-mueh8; kiam2-tiam2. by lot, khiah8-khau1. care, tsur2-soi3; kurn2-sin2; sie2-sim1; kurn2-sim1; soi3-ji7. care of, thoinn2-siu2; tsiau3-ku3; liau7-li2. care of oneself, tsur6-ki2 po2-tong6. down, khieh8--loh8-lai5; pak--loh8-lai5. exercise, khur3-thit8-tho5; kiann5-thit8-tho5; kiann5-siau1-iau5; oinn5-pou7; kin5-kiann5; kiann5-lai5 kiann5-khur3. one by the hand, khan1-tshiu2. leave of, kau3-si5; si5-piet8; siang1-piet8; tsiam6-piet8; kau3-piet8. one in (cheat), tshuah8; phien3; kuang1-phien3. medicine, tsiah8-ieh8. out of the water, liau5--tieh8. off, shoes or clothes, thng3-tiau7. off, a hat, pak8-tiau7; hien1-tiau7. one's hat to any one, hien1-khi2-bo7 tso3-loi2-siau3. off a cover, iaunn6-khoinn3; iaunn6-kham3; iaunn6-khui1. out a splinter, thie1-tshuann1; kiah8-tshi3. snuff, thie1-phinn7-hun1 (out of bottle); tsiah8-phinn7-hun1; hngh8-phinn7-hun1. up, with chopsticks, koih8. with two fingers, nuennh8; ninn1. under the arm, koih8 to6 koh8-e6. the right hand path, tui3-tsiann3-tshiu2-poinn5 khur3. a disease, tieh8-penn7; ue3-tieh8-penn7; jiam2-tieh8-penn7; thuan5-jiam2. upon oneself, ka1-ki7 tam1-seng5; tann1-tng1; tsur6-tsuan1 (without authority). fire, toh8-hue2. a wife, tshua7-tshin1; tshua7-bou2; ti3-ke1. hold of, tshiu2 liah8; khieh8-kin2; khinn5; khinn5-kin2; man2-kin2; khan1-kin2. hold of one's queue, khim2-pinn1; tsang2-pinn1; man2-pinn1.
 
 tale, a, tsek8-tng7-kou2; kou2-tsheh8. to tell tales, oh8-kou2. -bearer, puann1-si6-hui1; puann1-pai2; puann1-so1; koinn3-so1.
 
@@ -13192,7 +13192,7 @@ twang, of bow, keng1-hinn5 hiang2. nasal, phinn7-im1; sai2-phinn7-khang1-kng2.
 
 tweak, liam3. one's nose, liam3-phinn7-thau5; tsun6-phinn7-thau5.
 
-tweezers, nihnn8-kiann2; niap8-kiann2.
+tweezers, ninnh8-kiann2; niap8-kiann2.
 
 twelve, tsap8-ji7. twelve thousand, buan7-ji7.
 
@@ -13210,7 +13210,7 @@ twine, soh8-kiann2. twine about, tsang7-soh8; tinn5; tua6.
 
 twinge, tshng3-thiann3; man2-thiann3; thiu1-thiann3; tshuah8-thiann3.
 
-twinkle, iap8-iap8-sih8; iap-iap-sih; i kai5-kng1 oi6-tin2-tang6. of the eye, nihnn8-mak8; mak8 nihnn8. in a twinkling, tsek8-mak8-nihnn8-ku2.
+twinkle, iap8-iap8-sih8; iap-iap-sih; i kai5-kng1 oi6-tin2-tang6. of the eye, ninnh8-mak8; mak8 ninnh8. in a twinkling, tsek8-mak8-ninnh8-ku2.
 
 twins, sang1-senn1.
 
@@ -13890,7 +13890,7 @@ wean, keh8-ninn6; tng6-ninn6; pang3-ninn6.
 
 weapon, piann1-khi3; ke1-hue2; kan-kho; pai5-tshienn1.
 
-wear, to, clothes, tsheng7-sann1. a hat, ti3-bo7. a ring, kua3-tshiu2-huan5 (armlet); kua3-tshiu2-tsat8 (finger-ring). wear holes in one's clothes, tsheng7-phua3 sann1-khou3. as (e.g.) grind-stone, siam2-sih8; siau1-sih8. worn out, tsheng7-kau3-phua3; lau-se; thiau1-se1; phua3-mohnn8.
+wear, to, clothes, tsheng7-sann1. a hat, ti3-bo7. a ring, kua3-tshiu2-huan5 (armlet); kua3-tshiu2-tsat8 (finger-ring). wear holes in one's clothes, tsheng7-phua3 sann1-khou3. as (e.g.) grind-stone, siam2-sih8; siau1-sih8. worn out, tsheng7-kau3-phua3; lau-se; thiau1-se1; phua3-monnh8.
 
 weary, khun3; kha sng; kha sng, tshiu2 nng2.
 
@@ -14026,7 +14026,7 @@ wine, tsiu2 (spirituous liquor); phu5-tho5-tsiu2 (grape). flagon, tsiu2-pan5; ts
 
 wings, sit8. to flap the, phah8-sit8. to dress, tshng2-sit8; tshoinn2-sit8. to clip the, tsien2-sit8.
 
-wink, nihnn8-mak8. to wink at a thing, tenn3-tso3 m7-tsai1.
+wink, ninnh8-mak8. to wink at a thing, tenn3-tso3 m7-tsai1.
 
 winnow, pua3-bi2; pua3-tshek8. tray used to, pua3-ki1. fan used to, huang1-kuinn7. to, in fan, ka2-tshek8.
 
